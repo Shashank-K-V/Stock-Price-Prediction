@@ -3,6 +3,9 @@
 
 This repository contains code and resources for stock price prediction using machine learning algorithms. SVR, Linear Regression, Random Forest, KNN, LSTM
 
+
+
+
 <img width="604" alt="Image 1" src="https://github.com/Shashank-K-V/Stock-Price-Prediction/blob/main/Images/Image%201.png">
 
 <img width="604" alt="Image 2" src="https://github.com/Shashank-K-V/Stock-Price-Prediction/blob/main/Images/Image%202.png">
