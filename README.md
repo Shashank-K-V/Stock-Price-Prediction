@@ -1,6 +1,14 @@
 
 # Stock-Price-Prediction!
 
-<img width="604" alt="Image 1" src="https://github.com/Shashank-K-V/Stock-Price-Prediction/blob/main/Images/Image%203.png">
+<img width="604" alt="Image 1" src="https://github.com/Shashank-K-V/Stock-Price-Prediction/blob/main/Images/Image%201.png">
 
-<img width="604" alt="Image 2" src="https://github.com/Shashank-K-V/Stock-Price-Prediction/assets/61016233/8a896021-86d6-417f-9dad-a1b612891527">
+<img width="604" alt="Image 2" src="https://github.com/Shashank-K-V/Stock-Price-Prediction/blob/main/Images/Image%202.png">
+
+<img width="604" alt="Image 3" src="https://github.com/Shashank-K-V/Stock-Price-Prediction/blob/main/Images/Image%203.png">
+
+<img width="604" alt="Image 4" src="https://github.com/Shashank-K-V/Stock-Price-Prediction/blob/main/Images/Image%204.png">
+
+<img width="604" alt="Image 5" src="https://github.com/Shashank-K-V/Stock-Price-Prediction/blob/main/Images/Image%205.png">
+
+<img width="604" alt="Image 6" src="https://github.com/Shashank-K-V/Stock-Price-Prediction/blob/main/Images/Image%206.png">
